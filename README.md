@@ -1,6 +1,6 @@
-# sqllearning
+# Picture Plus
 
-trying to learn how the sql plugin works
+an app that displays images from network
 
 ## Getting Started
 
