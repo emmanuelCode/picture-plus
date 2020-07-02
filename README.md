@@ -1,6 +1,8 @@
 # Picture Plus
 
-an app that displays images from network
+an app that displays images from network and place them under a grid.
+
+![App Demo](https://media.giphy.com/media/H83MIbjG6Q0yuWUYGl/giphy.gif)
 
 ## Getting Started
 
